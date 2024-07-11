@@ -10,6 +10,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjar
 ==============================================================================================================================
 
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/sanjar-omurbekov-7302b32a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=telegram&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=ff7b72&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
 C++ engineer and front-end developer
 ------------------------------------
 
