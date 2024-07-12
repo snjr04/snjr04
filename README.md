@@ -21,7 +21,7 @@ I am a beginning C++ engineer. I started my journey in 2022 with the "it-run" pr
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [portfolio](https://github.com/snjr04/portfolio)
 * ✉️  You can contact me at [superkingbro004@gmail.com](mailto:superkingbro004@gmail.com)
-* 🚀  I'm currently working on [my partfolio](http://my app)
+* 🚀  I'm currently working on [my partfolio](http://my/app)
 * 🧠  I'm learning Qt and C++
 * 🤝  I'm open to collaborating on any suggestions
 
