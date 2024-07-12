@@ -19,7 +19,7 @@ C++ engineer and front-end developer
 I am a beginning C++ engineer. I started my journey in 2022 with the "it-run" programming academy. There, I studied web development. As soon as I finished the courses, I wanted to learn other languages and started studying them. For example, Swift, Flutter, and C/C++. I liked C/C++ the most, and in 2023, I began studying C/C++ more deeply. Now I am actively looking for my first job!
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [don't have](http://https://www.linkedin.com/in/sanjar-omurbekov-7302b32a0/)
+* 🖥️  See my portfolio at [portfolio](https://github.com/snjr04/portfolio)
 * ✉️  You can contact me at [superkingbro004@gmail.com](mailto:superkingbro004@gmail.com)
 * 🚀  I'm currently working on [my partfolio](http://my app)
 * 🧠  I'm learning Qt and C++
