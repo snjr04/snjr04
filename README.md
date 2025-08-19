@@ -67,6 +67,10 @@ Skills
 <a href="http://www.github.com/snjr04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snjr04&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/snjr04/achievements/main/neon/2008.jpg" alt="Логотип" width="200">
+</div>
+
 ###
 
 
