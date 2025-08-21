@@ -8,11 +8,11 @@
 ## 👨‍💻 About Me  
 - 💡 Began coding in **2022** at *it-run programming academy*  
 - 🌍 Based in **Moscow**  
-- ❤️ My strongest passion is **Modern C++**  
+- ❤️ Passionate about **Modern C++**  
 - 📌 Currently building: [Password Manager](https://github.com/snjr04/PasswordManager)  
 - 🌱 Learning **Qt, STL, and advanced OOP**  
 - 🎯 Goal: land my first **C++ developer position**  
-- 🤝 Open for **collaboration** on creative projects  
+- 🤝 Open for **collaboration**  
 
 ---
 
@@ -23,18 +23,29 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snjr04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjr04&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=snjr04&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjr04&layout=compact&theme=radical" height="180"/>
+</div>
 
 ---
 
-## 🔥 Streak & Achievements  
+## 🔥 Monthly Activity  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=snjr04&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snjr04&theme=tokyonight" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snjr04&theme=radical&utcOffset=3" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snjr04&theme=radical" height="180"/>
+</div>
+
+---
+
+## 🥋 Codewars & GitHub Trophies
+<div align="center">
+
+[![Codewars](https://github.r2v.ch/codewars?user=SanjarOmurbekov&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/SanjarOmurbekov)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=snjr04&theme=radical&no-frame=true&row=2&column=4)](https://github.com/snjr04)
+
 </div>
 
 ---
@@ -57,5 +68,4 @@
 
 ---
 
-<!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c3e50,100:ff7b72" width="100%"/>
