@@ -1,5 +1,5 @@
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sanjar%20Omurbekov&fontAlign=50&fontAlignY=40&color=0:ff7b72,100:2c3e50&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
+<!-- Animated Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Sanjar%20Omurbekov&fontAlign=50&fontAlignY=40&color=0:ff7b72,100:2c3e50&fontColor=ffffff&fontSize=60&animation=twinkle" width="100%"/>
 
 <h3 align="center">⚡ C++ Engineer | 🎨 Front-End Developer | 🚀 Tech Explorer</h3>
 
@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snjr04&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snjr04&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true&hide_rank=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjr04&layout=compact&theme=radical" height="180"/>
 </div>
 
@@ -39,12 +39,16 @@
 
 ---
 
-## 🥋 Codewars & GitHub Trophies
+## 🥋 Codewars & GitHub Trophies  
 <div align="center">
 
-[![Codewars](https://github.r2v.ch/codewars?user=SanjarOmurbekov&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/SanjarOmurbekov)
+<a href="https://www.codewars.com/users/SanjarOmurbekov" target="_blank">
+  <img src="https://github.r2v.ch/codewars?user=SanjarOmurbekov&name=true&top_languages=true&theme=dark&animation=true" height="180"/>
+</a>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=snjr04&theme=radical&no-frame=true&row=2&column=4)](https://github.com/snjr04)
+<a href="https://github.com/snjr04" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=snjr04&theme=radical&no-frame=true&row=2&column=4&animation=true" height="180"/>
+</a>
 
 </div>
 
@@ -68,4 +72,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c3e50,100:ff7b72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c3e50,100:ff7b72&animation=fadeIn" width="100%"/>
